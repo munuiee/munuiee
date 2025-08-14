@@ -1,5 +1,3 @@
-### 👋🙋🏻‍♀️
-
 <!--
 **munuiee/munuiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
-2025.06~ iOS Swift 개발 공부 중
+ 
+# <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
+
+2025.06~ iOS Swift 개발 공부 중 🐢
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihyee10)](https://velog.io/@jihyee10/posts)
 
