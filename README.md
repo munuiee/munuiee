@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/swift-#F05138?style=flat-square&logo=html5&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 2025.06~ iOS Swift 개발 공부 중
 
