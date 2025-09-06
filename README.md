@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
  
 # ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
 
 2025.06~ iOS Swift 개발 공부 중 🐢
+
+<br>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=munuiee&postId=default&theme=santorini)](https://munuiee.tistory.com)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihyee10)](https://velog.io/@jihyee10/posts)
 
