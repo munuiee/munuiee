@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=munuiee&postId=default&theme=santorini)](https://munuiee.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=hachkoi&postId=default&theme=santorini)](https://hachkoi.tistory.com)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihyee10)](https://velog.io/@jihyee10/posts)
 
